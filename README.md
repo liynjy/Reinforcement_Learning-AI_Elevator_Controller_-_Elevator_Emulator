@@ -8,7 +8,7 @@
 
 # [History:]
 - Fixed bugs in V1.0
-- Sucessfully trained AI Elevator Controller or Deep Q-Learning Network
+- Succesfully trained AI Elevator Controller of Deep Q-Learning Network
 
 # ------------------------------------------------------------------
 
