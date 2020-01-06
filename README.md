@@ -7,6 +7,7 @@
 # [History:]
 - Fixed bugs in V1.0
 - Sucessfully trained AI Elevator Controller or Deep Q-Learning Network
+
 #--------------------------------------------------------------------------
 
 #Author: Lin Junyang
@@ -15,5 +16,13 @@
 #All Rights Reserved.
 
 #--------------------------------------------------------------------------
-Author introduction: -- Radar Algorithm, Data Analysis expert -- IC algorithm Implementation expert -- FPGA, Embbed Systems expert
+
+Author introduction: 
+
+-- Radar Algorithm, Data Analysis expert 
+
+-- IC algorithm Implementation expert 
+
+-- FPGA, Embbed Systems expert
+
 Contact me by Wechat: liynjy
